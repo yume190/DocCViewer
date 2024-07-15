@@ -36,18 +36,18 @@
 
 ### TODOS(ISSUE)
 
-[ ] UI Loading/Process
-[ ] iOS Preview Server not close when app closed
-[ ] iOS untar tca.tar.gz need 1GB memory
- * tca.tar.gz  50 MB
- * tca        400 MB
+ - [ ] UI Loading/Process
+ - [ ] iOS Preview Server not close when app closed
+ - [ ] iOS untar tca.tar.gz need 1GB memory
+   * tca.tar.gz  50 MB
+   * tca        400 MB
 
 ### TODOS
 
-[ ] Find Other HTTP Server
-  [ ] change base url
-[ ] Support Latest(main/master head commit)
-[ ] build static site by single `md`?
-[ ] build static site when repo doesn't contain `.docc`?
-[ ] remove `swift-docc`(Mac)
-[ ] filter (tag/commits/branch)
+- [ ] Find Other HTTP Server
+  - [ ] change base url
+- [ ] Support Latest(main/master head commit)
+- [ ] build static site by single `md`?
+- [ ] build static site when repo doesn't contain `.docc`?
+- [ ] remove `swift-docc`(Mac)
+- [ ] filter (tag/commits/branch)

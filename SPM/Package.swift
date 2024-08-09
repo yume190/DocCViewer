@@ -33,8 +33,8 @@ let package = Package(
       .package(
           url: "https://github.com/apple/swift-argument-parser",
           from: "1.2.3"),
-          //swift-5.10-RELEASE
-    // swift-5.10.1-RELEASE
+          
+      /// https://github.com/swiftlang/swift-docc/releases/tag/swift-5.10.1-RELEASE
       .package(name: "swift-docc", path: "../swift-docc"),
       
       .package(url: "https://github.com/kylef/PathKit", from: "1.0.1"),
